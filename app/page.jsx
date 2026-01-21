@@ -161,7 +161,7 @@ const WinterLetter = () => {
                     </div>
 
                     <div
-                      className="space-y-4 text-gray-700 font-serif text-sm leading-relaxed"
+                      className="space-y-4 text-gray-700 font-serif italic text-sm leading-relaxed"
                       style={{ fontFamily: "Georgia, serif" }}
                     >
                       <p className="first-letter:text-4xl first-letter:font-bold first-letter:text-rose-600 first-letter:float-left first-letter:mr-1.5 first-letter:leading-none first-letter:mt-1">
